@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import Onec from "onec-sdk";
-import logo from "../assets/Group 512643.svg";
+import logo from "https://of1nft.com/wp-content/uploads/2022/05/1436D9E0-D112-40AE-B984-8C12BEF0D6AF.png";
 const Navbar = () => {
   const url = "https://avatars.dicebear.com/api/identicon/2.svg";
 
