@@ -17,7 +17,7 @@ function App() {
           <div className="dark-text pb-12 ">
             <p className="text-3xl md:text-5xl font-bold">NFT minter</p>
             <p className="text-lg md:text-xl pt-2 font-semibold">
-              Free NFT minter on Polygon
+              Our VIP NFT minter on Polygon
             </p>
           </div>
           <img
@@ -31,14 +31,8 @@ function App() {
         <Form />
         <div className="my-12">
           <p className="text-center dark-text md:text-xl text-base font-bold">
-            Built with Onecdot Dev Tools{" "}
-            <a
-              href="https://dashboard.onec.in/"
-              target="_blank"
-              className="underline"
-            >
-              Build Yours
-            </a>{" "}
+            Built by OF1NFT
+      
           </p>
         </div>
       </div>
